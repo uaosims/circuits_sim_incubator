@@ -1,0 +1,115 @@
+*** Error 18 "main.c" Line 2(10,16): File can not be opened
+    Not in "C:\Program Files (x86)\PICC\Devices\xc.h"
+    Not in "C:\Program Files (x86)\PICC\Drivers\xc.h"
+    Not in local "xc.h"
+    Not in local "C:\Users\Holberton Dev\Desktop\SIMULADORES ONLINE UAO\PROTEUS\INCUBADORA-ICONS\FinalAvance2_Icons_Incubadora_simulaciones\JAMES.X\xc.h"
+    Not in last "C:\Program Files (x86)\PICC\Devices\xc.h"
+    Not in project "C:\Users\Holberton Dev\Desktop\SIMULADORES ONLINE UAO\PROTEUS\INCUBADORA-ICONS\FinalAvance2_Icons_Incubadora_simulaciones\JAMES.X\xc.h"
+*** Error 18 "C:\Users\Holberton Dev\Desktop\SIMULADORES ONLINE UAO\PROTEUS\INCUBADORA-ICONS\FinalAvance2_Icons_Incubadora_simulaciones\JAMES.X\LIBRERIA_ADC.h" Line 2(10,17): File can not be opened
+    Not in "C:\Program Files (x86)\PICC\Devices\xc.h"
+    Not in "C:\Program Files (x86)\PICC\Drivers\xc.h"
+    Not in "C:\Users\Holberton Dev\Desktop\SIMULADORES ONLINE UAO\PROTEUS\INCUBADORA-ICONS\FinalAvance2_Icons_Incubadora_simulaciones\JAMES.X\xc.h"
+    Not in local "xc.h"
+    Not in local "C:\Users\Holberton Dev\Desktop\SIMULADORES ONLINE UAO\PROTEUS\INCUBADORA-ICONS\FinalAvance2_Icons_Incubadora_simulaciones\JAMES.X\xc.h"
+    Not in last "C:\Users\Holberton Dev\Desktop\SIMULADORES ONLINE UAO\PROTEUS\INCUBADORA-ICONS\FinalAvance2_Icons_Incubadora_simulaciones\JAMES.X\xc.h"
+    Not in project "C:\Users\Holberton Dev\Desktop\SIMULADORES ONLINE UAO\PROTEUS\INCUBADORA-ICONS\FinalAvance2_Icons_Incubadora_simulaciones\JAMES.X\xc.h"
+*** Error 23 "C:\Users\Holberton Dev\Desktop\SIMULADORES ONLINE UAO\PROTEUS\INCUBADORA-ICONS\FinalAvance2_Icons_Incubadora_simulaciones\JAMES.X\LIBRERIA_ADC.h" Line 22(8,9): Can not set this option this far into the code
+*** Error 48 "C:\Users\Holberton Dev\Desktop\SIMULADORES ONLINE UAO\PROTEUS\INCUBADORA-ICONS\FinalAvance2_Icons_Incubadora_simulaciones\JAMES.X\LIBRERIA_ADC.h" Line 22(9,12): Expecting a (
+*** Error 43 "C:\Users\Holberton Dev\Desktop\SIMULADORES ONLINE UAO\PROTEUS\INCUBADORA-ICONS\FinalAvance2_Icons_Incubadora_simulaciones\JAMES.X\LIBRERIA_ADC.h" Line 22(13,15): Expecting a declaration
+*** Error 12 "C:\Users\Holberton Dev\Desktop\SIMULADORES ONLINE UAO\PROTEUS\INCUBADORA-ICONS\FinalAvance2_Icons_Incubadora_simulaciones\JAMES.X\LIBRERIA_ADC.h" Line 25(5,15): Undefined identifier   ADCON2bits
+*** Error 12 "C:\Users\Holberton Dev\Desktop\SIMULADORES ONLINE UAO\PROTEUS\INCUBADORA-ICONS\FinalAvance2_Icons_Incubadora_simulaciones\JAMES.X\LIBRERIA_ADC.h" Line 26(5,15): Undefined identifier   ADCON2bits
+*** Error 12 "C:\Users\Holberton Dev\Desktop\SIMULADORES ONLINE UAO\PROTEUS\INCUBADORA-ICONS\FinalAvance2_Icons_Incubadora_simulaciones\JAMES.X\LIBRERIA_ADC.h" Line 27(5,15): Undefined identifier   ADCON2bits
+*** Error 12 "C:\Users\Holberton Dev\Desktop\SIMULADORES ONLINE UAO\PROTEUS\INCUBADORA-ICONS\FinalAvance2_Icons_Incubadora_simulaciones\JAMES.X\LIBRERIA_ADC.h" Line 32(6,16): Undefined identifier   ADCON0bits
+*** Error 12 "C:\Users\Holberton Dev\Desktop\SIMULADORES ONLINE UAO\PROTEUS\INCUBADORA-ICONS\FinalAvance2_Icons_Incubadora_simulaciones\JAMES.X\LIBRERIA_ADC.h" Line 33(6,16): Undefined identifier   ADCON0bits
+*** Error 12 "C:\Users\Holberton Dev\Desktop\SIMULADORES ONLINE UAO\PROTEUS\INCUBADORA-ICONS\FinalAvance2_Icons_Incubadora_simulaciones\JAMES.X\LIBRERIA_ADC.h" Line 34(6,16): Undefined identifier   ADCON0bits
+*** Error 12 "C:\Users\Holberton Dev\Desktop\SIMULADORES ONLINE UAO\PROTEUS\INCUBADORA-ICONS\FinalAvance2_Icons_Incubadora_simulaciones\JAMES.X\LIBRERIA_ADC.h" Line 35(13,23): Undefined identifier   ADCON0bits
+*** Error 12 "C:\Users\Holberton Dev\Desktop\SIMULADORES ONLINE UAO\PROTEUS\INCUBADORA-ICONS\FinalAvance2_Icons_Incubadora_simulaciones\JAMES.X\LIBRERIA_ADC.h" Line 36(17,23): Undefined identifier   ADRESH
+*** Error 90 "main.c" Line 24(37,38): Attempt to create a pointer to a constant
+*** Error 90 "main.c" Line 25(36,37): Attempt to create a pointer to a constant
+*** Error 90 "main.c" Line 26(30,31): Attempt to create a pointer to a constant
+*** Error 90 "main.c" Line 27(30,31): Attempt to create a pointer to a constant
+*** Error 90 "main.c" Line 28(29,30): Attempt to create a pointer to a constant
+*** Error 12 "main.c" Line 34(13,20): Undefined identifier   PORTCbits
+*** Error 12 "main.c" Line 39(18,25): Undefined identifier   PORTCbits
+*** Error 12 "main.c" Line 43(13,21): Undefined identifier   PORTCbits
+*** Error 90 "main.c" Line 47(52,53): Attempt to create a pointer to a constant
+*** Error 90 "main.c" Line 48(40,41): Attempt to create a pointer to a constant
+*** Error 90 "main.c" Line 49(41,42): Attempt to create a pointer to a constant
+*** Error 12 "main.c" Line 65(23,28): Undefined identifier   PORTD
+*** Error 12 "main.c" Line 66(33,34): Undefined identifier  -- __delay_ms
+*** Error 12 "main.c" Line 67(23,28): Undefined identifier   PORTD
+*** Error 12 "main.c" Line 68(33,34): Undefined identifier  -- __delay_ms
+*** Error 12 "main.c" Line 71(23,28): Undefined identifier   PORTD
+*** Error 12 "main.c" Line 72(33,34): Undefined identifier  -- __delay_ms
+*** Error 12 "main.c" Line 73(23,28): Undefined identifier   PORTD
+*** Error 12 "main.c" Line 74(33,34): Undefined identifier  -- __delay_ms
+*** Error 12 "main.c" Line 77(23,28): Undefined identifier   PORTD
+*** Error 12 "main.c" Line 78(33,34): Undefined identifier  -- __delay_ms
+*** Error 12 "main.c" Line 79(23,28): Undefined identifier   PORTD
+*** Error 12 "main.c" Line 80(33,34): Undefined identifier  -- __delay_ms
+*** Error 12 "main.c" Line 83(23,28): Undefined identifier   PORTD
+*** Error 12 "main.c" Line 84(33,34): Undefined identifier  -- __delay_ms
+*** Error 12 "main.c" Line 85(23,28): Undefined identifier   PORTD
+*** Error 12 "main.c" Line 86(33,34): Undefined identifier  -- __delay_ms
+*** Error 12 "main.c" Line 90(26,31): Undefined identifier   PORTD
+*** Error 12 "main.c" Line 91(28,33): Undefined identifier   PORTD
+*** Error 12 "main.c" Line 95(25,33): Undefined identifier   PORTCbits
+*** Error 90 "main.c" Line 99(49,50): Attempt to create a pointer to a constant
+*** Error 90 "main.c" Line 100(40,41): Attempt to create a pointer to a constant
+*** Error 90 "main.c" Line 101(41,42): Attempt to create a pointer to a constant
+*** Error 12 "main.c" Line 111(25,33): Undefined identifier   PORTCbits
+*** Error 90 "main.c" Line 115(49,50): Attempt to create a pointer to a constant
+*** Error 90 "main.c" Line 116(40,41): Attempt to create a pointer to a constant
+*** Error 90 "main.c" Line 117(41,42): Attempt to create a pointer to a constant
+*** Error 1 "main.c" Line 127(24,25): Illegal C character in input file  0xED
+*** Error 12 "main.c" Line 127(22,24): Undefined identifier   ox
+*** Error 1 "main.c" Line 128(53,54): Illegal C character in input file  0xED
+*** Error 12 "main.c" Line 128(51,53): Undefined identifier   ox
+*** Error 12 "main.c" Line 132(26,31): Undefined identifier   PORTD
+*** Error 12 "main.c" Line 133(28,33): Undefined identifier   PORTD
+*** Error 12 "main.c" Line 136(25,33): Undefined identifier   PORTCbits
+*** Error 29 "main.c" Line 145(19,25): Function definition different from previous definition  __interrupt Param#1
+*** Error 43 "main.c" Line 145(26,27): Expecting a declaration
+*** Error 43 "main.c" Line 145(27,28): Expecting a declaration
+*** Error 43 "main.c" Line 146(5,7): Expecting a declaration
+*** Error 43 "main.c" Line 146(7,8): Expecting a declaration
+*** Error 48 "main.c" Line 146(8,16): Expecting a (
+*** Error 48 "main.c" Line 146(17,21): Expecting a (
+*** Error 43 "main.c" Line 146(23,24): Expecting a declaration
+*** Error 43 "main.c" Line 146(24,25): Expecting a declaration
+*** Error 43 "main.c" Line 146(25,26): Expecting a declaration
+*** Error 48 "main.c" Line 147(9,10): Expecting a (
+*** Error 48 "main.c" Line 148(9,17): Expecting a (
+*** Error 48 "main.c" Line 148(18,22): Expecting a (
+*** Error 43 "main.c" Line 148(23,24): Expecting a declaration
+*** Error 43 "main.c" Line 148(24,25): Expecting a declaration
+*** Error 43 "main.c" Line 151(9,11): Expecting a declaration
+*** Error 43 "main.c" Line 151(11,12): Expecting a declaration
+*** Error 48 "main.c" Line 151(12,13): Expecting a (
+*** Error 43 "main.c" Line 151(15,18): Expecting a declaration
+*** Error 43 "main.c" Line 151(18,20): Expecting a declaration
+*** Error 48 "main.c" Line 151(20,21): Expecting a (
+*** Error 43 "main.c" Line 151(23,26): Expecting a declaration
+*** Error 43 "main.c" Line 151(26,28): Expecting a declaration
+*** Error 48 "main.c" Line 151(28,29): Expecting a (
+*** Error 43 "main.c" Line 151(31,34): Expecting a declaration
+*** Error 43 "main.c" Line 151(34,36): Expecting a declaration
+*** Error 48 "main.c" Line 151(36,37): Expecting a (
+*** Error 43 "main.c" Line 151(39,42): Expecting a declaration
+*** Error 43 "main.c" Line 151(42,44): Expecting a declaration
+*** Error 48 "main.c" Line 151(44,45): Expecting a (
+*** Error 43 "main.c" Line 151(47,50): Expecting a declaration
+*** Error 43 "main.c" Line 151(50,52): Expecting a declaration
+*** Error 48 "main.c" Line 151(52,53): Expecting a (
+*** Error 43 "main.c" Line 151(55,58): Expecting a declaration
+*** Error 43 "main.c" Line 151(58,59): Expecting a declaration
+*** Error 43 "main.c" Line 151(59,60): Expecting a declaration
+*** Error 28 "main.c" Line 152(25,28): Expecting an identifier
+*** Error 43 "main.c" Line 152(29,30): Expecting a declaration
+*** Error 28 "main.c" Line 153(25,28): Expecting an identifier
+*** Error 43 "main.c" Line 153(29,30): Expecting a declaration
+*** Error 28 "main.c" Line 154(25,28): Expecting an identifier
+*** Error 43 "main.c" Line 154(29,30): Expecting a declaration
+*** Error 28 "main.c" Line 155(25,27): Expecting an identifier
+      100 Errors,  0 Warnings.
+Build Failed.
